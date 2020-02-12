@@ -1,0 +1,14 @@
+2020-02-04 16:47:47,772 INFO 7320 [egg:logger] init all loggers with options: {"dir":"/Users/zhaobeibei/Documents/zock/egg/logs/firstegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"firstegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-04 16:47:47,808 INFO 7320 [egg-multipart] stream mode enable
+2020-02-04 16:47:47,885 INFO 7320 [egg-static] starting static serve /public/ -> /Users/zhaobeibei/Documents/zock/egg/app/public
+2020-02-04 16:47:47,888 INFO 7320 [egg-security] use csrf middleware
+2020-02-04 16:47:47,889 INFO 7320 [egg-security] use methodnoallow middleware
+2020-02-04 16:47:47,890 INFO 7320 [egg-security] use noopen middleware
+2020-02-04 16:47:47,893 INFO 7320 [egg-security] use nosniff middleware
+2020-02-04 16:47:47,894 INFO 7320 [egg-security] use xssProtection middleware
+2020-02-04 16:47:47,894 INFO 7320 [egg-security] use xframe middleware
+2020-02-04 16:47:47,895 INFO 7320 [egg-security] use dta middleware
+2020-02-04 16:47:47,895 INFO 7320 [egg-security] compose 7 middlewares into one security middleware
+2020-02-04 16:47:47,906 INFO 7320 [egg:core] dump config after load, 6ms
+2020-02-04 16:47:47,923 INFO 7320 [egg-watcher:application] watcher start success
+2020-02-04 16:47:47,929 INFO 7320 [egg:core] dump config after ready, 4ms
